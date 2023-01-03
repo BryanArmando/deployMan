@@ -14,10 +14,10 @@ function Formen() {
 
       <Form.Group className="mb-4" controlId="formBasicPassword">
         <Form.Label>Escribeme tu mensaje</Form.Label>
-        <Form.Control type="password" placeholder="Password" />
+        <Form.Control type="input" placeholder="Detalles" />
       </Form.Group>
       <Button variant="primary" type="submit">
-        Submit
+        Enviar
       </Button>
     </Form>
     </div>

@@ -1,8 +1,8 @@
 # Proyecto React
 
-- Multi proyectos en react.
+- Playground en React.
 
-<img src='public/kruger.png' width=50px>
+<img src='public/kruger.jpg' >
 
 ## Built With:
 
